@@ -27,4 +27,4 @@ I'm a Quality Assurance  Engineer and documenting my journey through practical p
 
 ## Goal
 
-Become a Junior QA Engineer.
+Become a Professional QA Engineer.
